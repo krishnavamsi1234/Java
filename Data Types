@@ -1,0 +1,32 @@
+code:
+public class Appliance{
+    public static void main(String[]args){
+        int myNumber=2;
+        Boolean myValue= false ;
+        char myAlphabet='A';
+        double myCat=12.2;
+        short myKid=82;
+        long myLong=890765;
+        byte myBit=125;
+        float myCruz=43.2f;
+        System.out.println(myValue);
+        System.out.println(myNumber);
+        System.out.println(myAlphabet);
+        System.out.println(myCat);
+        System.out.println(myKid);
+        System.out.println(myLong);
+        System.out.println(myBit);
+        System.out.println(myCruz);
+        
+        
+    }
+}
+output:
+false
+2
+A
+12.2
+82
+890765
+125
+43.2
